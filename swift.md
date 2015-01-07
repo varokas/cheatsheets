@@ -26,3 +26,12 @@ let d = 6.7 //inferred to Double
 /* Multiple line
    comment */
 ```
+
+#### Loops
+```swift
+for i in 1..10 {
+}
+
+for i in 0..<10 {
+}
+```
